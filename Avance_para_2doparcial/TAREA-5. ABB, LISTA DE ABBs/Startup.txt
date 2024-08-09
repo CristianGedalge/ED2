@@ -1,0 +1,419 @@
+STARTUP = GROWTH
+Por:  Paul Braham
+
+Septiembre 2012
+
+Una startup es una empresa diseñada para crecer rápidamente. 
+El hecho de ser de nueva creación no convierte por sí solo a una empresa en una startup. 
+Tampoco es necesario que una startup trabaje en tecnología, o acepte financiación de riesgo, 
+o tenga algún tipo de "salida". Lo único esencial es el crecimiento. 
+Todo lo demás que asociamos con las startups se deriva del crecimiento. Si desea iniciar uno, 
+es importante comprenderlo. Las startups son tan difíciles que no te pueden dejar a un lado y 
+esperar tener éxito. Tienes que saber que lo que buscas es crecimiento. La buena noticia es que, 
+si creces, todo lo demás tiende a encajar. Lo que significa que puedes utilizar el crecimiento 
+como una brújula para tomar casi todas las decisiones que enfrentes.
+
+Redwoods
+
+Comencemos con una distinción que debería ser obvia pero que a menudo se pasa por alto: 
+no todas las empresas recién fundadas son una startup. Cada año se crean millones de empresas 
+en Estados Unidos. Sólo una pequeña fracción son empresas emergentes. 
+La mayoría son empresas de servicios: restaurantes, barberías, fontaneros, etc. 
+No se trata de startups, salvo en algunos casos excepcionales. Una barbería no está diseñada 
+para crecer rápido. Mientras que un motor de búsqueda, por ejemplo, sí lo es.
+
+Cuando digo que las startups están diseñadas para crecer rápidamente, lo digo en dos sentidos. 
+En parte me refiero a diseñado en el sentido de lo previsto, porque la mayoría de las nuevas empresas 
+fracasan. Pero también quiero decir que las startups son diferentes por naturaleza, de la misma manera 
+que una plántula de secuoya tiene un destino diferente al de un brote de frijol.
+
+Esa diferencia es la razón por la que existe una palabra distinta, "startup", para las empresas 
+diseñadas para crecer rápidamente. Si todas las empresas fueran esencialmente similares, pero 
+algunas por suerte o por el esfuerzo de sus fundadores terminaron creciendo muy rápido, 
+no necesitaríamos una palabra aparte. 
+
+Podríamos hablar simplemente de empresas de gran éxito y de empresas de menor éxito. Pero, de hecho, las startups 
+tienen un tipo de ADN diferente al de otras empresas. Google no es sólo una barbería cuyos fundadores fueron 
+excepcionalmente afortunados y trabajadores. Google fue diferente desde el principio.
+
+Para crecer rápidamente, necesita fabricar algo que pueda vender en un gran mercado. 
+Ésa es la diferencia entre Google y una barbería. Una barbería no escala.
+
+Para que una empresa crezca realmente, 
+debe (a) crear algo que mucha gente quiere y (b) llegar y servir a todas esas personas. 
+A las barberías les va bien en el departamento (a). Casi todo el mundo necesita cortarse el pelo. 
+El problema de una barbería, como de cualquier establecimiento minorista, es (b). 
+Una barbería atiende a los clientes en persona y pocos viajan lejos para cortarse el pelo. 
+E incluso si lo hicieran, la barbería no podría atenderlos. 
+
+Escribir software es una excelente manera de resolver (b), pero aún así puedes terminar limitado en (a). 
+Si escribes un software para enseñar tibetano a hablantes de húngaro, podrás llegar a la mayoría de las personas 
+que lo deseen, pero no serán muchas. Sin embargo, si creas software para enseñar inglés a hablantes de chino, 
+estás en territorio de startups.
+
+La mayoría de las empresas están estrictamente restringidas en (a) o (b). La característica distintiva de las startups 
+exitosas es que no lo son.
+
+
+Ideas
+
+Podría parecer que siempre sería mejor iniciar una startup que un negocio normal y corriente. 
+Si va a iniciar una empresa, ¿por qué no iniciar el tipo con mayor potencial? 
+El problema es que éste es un mercado (bastante) eficiente. 
+Si escribe software para enseñar tibetano a húngaros, no tendrá mucha competencia. 
+Si escribes software para enseñar inglés a hablantes de chino, enfrentarás una competencia feroz, 
+precisamente porque es un premio mayor. 
+
+Las limitaciones que limitan a las empresas ordinarias también las protegen. 
+Ésa es la compensación. Si abres una barbería, sólo tendrás que competir con otros barberos locales. 
+Si inicias un motor de búsqueda tienes que competir con el mundo entero.
+
+Sin embargo, lo más importante que protegen las limitaciones de una empresa normal no es la competencia, 
+sino la dificultad de generar nuevas ideas. Si abres un bar en un barrio concreto, 
+además de limitar tu potencial y protegerte de la competencia, esa limitación geográfica también ayuda 
+a definir tu empresa. Bar + barrio es una idea suficiente para una pequeña empresa. 
+Lo mismo ocurre con las empresas restringidas en (a). Tu nicho te protege y te define.
+
+Mientras que si quieres iniciar una startup, probablemente tendrás que pensar en algo bastante novedoso. 
+Una startup tiene que hacer algo que pueda ofrecer a un gran mercado, y las ideas de ese tipo son tan valiosas 
+que todas las obvias ya están tomadas.
+
+Ese espacio de ideas ha sido tan cuidadosamente seleccionado que una startup 
+generalmente tiene que trabajar en algo que todos los demás han pasado por alto. 
+Iba a escribir que uno tiene que hacer un esfuerzo consciente para encontrar ideas que todos los demás 
+han pasado por alto. Pero no es así como comienzan la mayoría de las empresas emergentes. 
+Por lo general, las startups exitosas surgen porque los fundadores son lo suficientemente diferentes 
+de otras personas como para que las ideas que pocos pueden ver les parezcan obvias. 
+
+Quizás más tarde den un paso atrás y se den cuenta de que han encontrado una idea en el punto ciego 
+de todos los demás y, a partir de ese momento, hagan un esfuerzo deliberado por permanecer allí. 
+Pero en el momento en que comienzan las nuevas empresas exitosas, gran parte de la innovación es inconsciente.
+
+Lo que diferencia a los fundadores exitosos es que pueden ver problemas diferentes. 
+Es una combinación particularmente buena tanto para ser bueno en tecnología como para enfrentar problemas 
+que pueden resolverse con ella, porque la tecnología cambia tan rápidamente que las ideas que antes eran malas 
+a menudo se vuelven buenas sin que nadie se dé cuenta. 
+El problema de Steve Wozniak era que quería tener su propia computadora. 
+Era un problema inusual en 1975, pero el cambio tecnológico estaba a punto de hacerlo mucho más común. 
+Como no sólo quería una computadora sino que sabía cómo construirla, Wozniak pudo fabricarla él mismo. 
+Y el problema que resolvió por sí mismo se convirtió en uno que Apple resolvió para millones de personas 
+en los años siguientes. Pero cuando para la gente común fue obvio que se trataba de un gran mercado, 
+Apple ya estaba establecida.
+
+Google tiene orígenes similares. Larry Page y Sergey Brin querían buscar en la web. 
+Pero a diferencia de la mayoría de la gente, tenían la experiencia técnica para darse cuenta de que los motores 
+de búsqueda existentes no eran tan buenos como podrían ser y para saber cómo mejorarlos. 
+En los años siguientes, su problema se convirtió en el problema de todos, a medida que la web creció 
+hasta un tamaño en el que no era necesario ser un experto en búsquedas exigente para darse cuenta 
+de que los viejos algoritmos no eran lo suficientemente buenos. 
+Pero como sucedió con Apple, cuando todos se dieron cuenta de lo importante que era la búsqueda, 
+Google ya estaba arraigado.
+
+Ésa es una conexión entre las ideas de las startups y la tecnología. 
+Los cambios rápidos en un área descubren problemas grandes y solubles en otras áreas. 
+A veces los cambios son avances y lo que cambian es la solubilidad. 
+Ese fue el tipo de cambio que produjo Apple; Los avances en la tecnología de chips finalmente permitieron a Steve Wozniak 
+diseñar una computadora que pudiera pagar. 
+Pero en el caso de Google el cambio más importante fue el crecimiento de la web. 
+Lo que cambió allí no fue la solubilidad sino la grandeza.
+
+La otra conexión entre las startups y la tecnología es que las startups crean nuevas formas de hacer las cosas, 
+y las nuevas formas de hacer las cosas son, en el sentido más amplio de la palabra, nueva tecnología. 
+Cuando una startup comienza con una idea expuesta por el cambio tecnológico y fabrica un producto que consiste 
+en tecnología en el sentido más estricto (lo que solía llamarse "alta tecnología"), es fácil combinar ambas. 
+Pero las dos conexiones son distintas y, en principio, se podría iniciar una startup que no estuviera impulsada 
+por el cambio tecnológico ni cuyo producto consistiera en tecnología excepto en el sentido más amplio.
+
+
+Tarifa
+
+¿Qué tan rápido tiene que crecer una empresa para ser considerada una startup? No hay una respuesta precisa para eso. 
+"Startup" es un polo, no un umbral. Empezar uno no es al principio más que una declaración de las propias ambiciones. 
+Te estás comprometiendo no sólo a iniciar una empresa, sino a iniciar una de rápido crecimiento y, por lo tanto, 
+te estás comprometiendo a buscar una de las raras ideas de ese tipo. 
+Pero al principio no tienes más que compromiso. Iniciar una startup es como ser un actor en ese sentido. 
+"Actor" también es un polo más que un umbral. Al comienzo de su carrera, un actor es un camarero que acude a audiciones. 
+Conseguir trabajo le convierte en un actor de éxito, pero no sólo se convierte en actor cuando tiene éxito.
+
+Entonces, la verdadera pregunta no es qué tasa de crecimiento convierte a una empresa en una startup, 
+sino qué tasa de crecimiento tienden a tener las startups exitosas. 
+Para los fundadores eso es más que una pregunta teórica, porque equivale a preguntarse si están en el camino correcto.
+
+El crecimiento de una startup exitosa suele tener tres fases:
+
+1. Hay un período inicial de crecimiento lento o nulo mientras la startup intenta descubrir qué está haciendo.
+2. A medida que la startup descubre cómo hacer algo que mucha gente quiere y cómo llegar a esas personas, hay un período de rápido crecimiento.
+3. Con el tiempo, una startup exitosa se convertirá en una gran empresa. 
+
+El crecimiento se desacelerará, en parte debido a limitaciones internas y en parte porque la empresa está empezando 
+a topar con los límites de los mercados a los que sirve. 
+Juntas, estas tres fases producen una curva en S. 
+La fase cuyo crecimiento define a la startup es la segunda, la de ascenso. 
+Su longitud y pendiente determinan el tamaño de la empresa.
+
+La pendiente es la tasa de crecimiento de la empresa. Si hay un número que todo fundador debería conocer siempre 
+es la tasa de crecimiento de la empresa. Esa es la medida de una startup. 
+Si no conoces ese número, ni siquiera sabes si te va bien o mal.
+
+Cuando me reúno por primera vez con los fundadores y les pregunto cuál es su tasa de crecimiento, 
+a veces me dicen "obtenemos alrededor de cien nuevos clientes al mes". Esa no es una tarifa. 
+Lo que importa no es el número absoluto de nuevos clientes, sino la proporción entre los nuevos clientes y 
+los existentes. Si realmente obtienes un número constante de nuevos clientes cada mes, 
+estás en problemas, porque eso significa que tu tasa de crecimiento está disminuyendo.
+
+Durante Y-Combinator medimos la tasa de crecimiento por semana, en parte porque hay muy poco tiempo antes del Día de 
+demostración y en parte porque las startups desde el principio necesitan comentarios frecuentes de sus usuarios 
+para modificar lo que están haciendo.
+
+Una buena tasa de crecimiento durante YC es del 5 al 7% por semana. Si puedes alcanzar el 10% por semana, 
+lo estás haciendo excepcionalmente bien. Si sólo puedes administrar el 1%, es una señal de que aún no has descubierto 
+lo que estás haciendo.
+
+Lo mejor para medir la tasa de crecimiento son los ingresos. 
+La siguiente mejor opción, para las empresas emergentes que no cobran inicialmente, 
+son los usuarios activos. Se trata de un indicador razonable del crecimiento de los ingresos 
+porque cada vez que la startup empieza a intentar ganar dinero, sus ingresos probablemente 
+serán un múltiplo constante de los usuarios activos. 
+
+
+
+Compass
+
+Generalmente aconsejamos a las startups que elijan una tasa de crecimiento que crean que pueden 
+alcanzar y luego intenten alcanzarla todas las semanas. 
+La palabra clave aquí es "justo". Si deciden crecer un 7% por semana y alcanzan esa cifra, 
+tendrán éxito esa semana. No necesitan hacer nada más. 
+Pero si no lo logran, habrán fracasado en lo único que importaba y, en consecuencia, deberían alarmarse.
+
+Los programadores reconocerán lo que estamos haciendo aquí. Estamos convirtiendo el inicio de una startup 
+en un problema de optimización. Y cualquiera que haya intentado optimizar el código sabe lo maravillosamente 
+efectivo que puede ser ese tipo de enfoque limitado. Optimizar el código significa tomar un programa existente 
+y cambiarlo para usar menos algo, generalmente tiempo o memoria. 
+No tienes que pensar en lo que debería hacer el programa, simplemente hazlo más rápido. 
+Para la mayoría de los programadores este es un trabajo muy satisfactorio. 
+El enfoque limitado lo convierte en una especie de rompecabezas y, en general, te sorprende lo rápido 
+que puedes resolverlo.
+
+Centrarse en alcanzar una tasa de crecimiento reduce el problema, que de otro modo sería desconcertantemente variado, 
+de iniciar una startup a un solo problema. 
+Puede utilizar esa tasa de crecimiento objetivo para tomar todas las decisiones por usted; 
+Cualquier cosa que le brinde el crecimiento que necesita es ipso facto correcta. 
+¿Deberías pasar dos días en una conferencia? 
+¿Deberías contratar a otro programador? 
+¿Deberías centrarte más en el marketing? 
+¿Deberías dedicar tiempo a cortejar a algún cliente importante? 
+¿Deberías agregar x característica? 
+Lo que sea que le permita alcanzar su tasa de crecimiento objetivo. 
+
+Juzgarse por el crecimiento semanal no significa que no pueda mirar más de una semana por delante. 
+Una vez que experimentas el dolor de no alcanzar tu objetivo una semana (era lo único que importaba y fallaste), 
+te interesas en cualquier cosa que pueda ahorrarte ese dolor en el futuro. 
+Por lo tanto, estará dispuesto, por ejemplo, a contratar a otro programador, que no contribuirá al crecimiento 
+de esta semana, pero que tal vez en un mes habrá implementado alguna característica nueva que le permitirá 
+obtener más usuarios. Pero solo si (a) la distracción de contratar a alguien no le hará perder sus números 
+en el corto plazo, y (b) está lo suficientemente preocupado por si podrá seguir alcanzando sus números 
+sin contratar a alguien nuevo.
+
+No es que no pienses en el futuro, sólo que no piensas en él más de lo necesario.
+
+En teoría, este tipo de escalada podría causarle problemas a una startup. 
+Podrían terminar en un máximo local. Pero en la práctica eso nunca sucede. 
+Tener que alcanzar una cifra de crecimiento cada semana obliga a los fundadores a actuar, 
+y actuar versus no actuar es lo mejor del éxito. Nueve de cada diez veces, sentarse a elaborar estrategias 
+es sólo una forma de procrastinación. 
+Mientras que las intuiciones de los fundadores sobre qué colina escalar suelen ser mejores de lo que creen. 
+Además, los máximos en el espacio de las ideas de startups no son puntiagudos ni aislados. 
+La mayoría de las ideas bastante buenas están adyacentes a otras aún mejores.
+
+Lo fascinante de optimizar para el crecimiento es que realmente puede descubrir ideas de startups. 
+Puedes utilizar la necesidad de crecimiento como una forma de presión evolutiva. 
+Si comienza con un plan inicial y lo modifica según sea necesario para seguir alcanzando, digamos, 
+un crecimiento semanal del 10%, puede terminar con una empresa bastante diferente a la que pretendía comenzar. 
+Pero cualquier cosa que crezca consistentemente al 10% por semana es casi con certeza una mejor idea 
+que la que tenía al principio.
+
+Aquí hay un paralelo con las pequeñas empresas. Así como la restricción de estar ubicado en un 
+vecindario particular ayuda a definir un bar, la restricción de crecer a un ritmo determinado puede ayudar 
+a definir una startup.
+
+Por lo general, será mejor seguir esa restricción a dondequiera que la lleve en lugar de dejarse influenciar 
+por alguna visión inicial, del mismo modo que a un científico le conviene más seguir la verdad a dondequiera 
+que la lleve en lugar de dejarse influenciar por lo que desearía que fuera el caso. 
+Cuando Richard Feynman dijo que la imaginación de la naturaleza era mayor que la imaginación del hombre, 
+quiso decir que si sigues la verdad descubrirás cosas más geniales de las que jamás podrías haber inventado. 
+Para las nuevas empresas, el crecimiento es una limitación muy parecida a la verdad. 
+Cada startup exitosa es, al menos en parte, producto de la imaginación del crecimiento.
+
+
+Valor
+
+Es difícil encontrar algo que crezca constantemente a un ritmo de varios porcentajes por semana, 
+pero si lo haces, es posible que hayas encontrado algo sorprendentemente valioso. 
+Si proyectamos hacia adelante veremos por qué.
+
+semanalmente	anual
+1%	1,7x
+2%	2,8x
+5%	12,6x
+7%	33,7x
+10%	142.0x
+
+Una empresa que crece al 1% semanal crecerá 1,7 veces al año, 
+mientras que una empresa que crece al 5% semanal crecerá 12,6 veces. 
+Una empresa que gana $ 1000 al mes (una cifra típica a principios de YC) y crece al 1% por semana, 
+4 años después ganará $ 7900 al mes, que es menos de lo que gana un buen programador en Silicon Valley. 
+Una startup que crece un 5% semanal en 4 años ganará 25 millones de dólares al mes. 
+
+Nuestros antepasados rara vez debieron haber encontrado casos de crecimiento exponencial, 
+porque nuestras intuiciones no son una guía aquí. Lo que sucede con las nuevas empresas de rápido crecimiento 
+tiende a sorprender incluso a los fundadores.
+
+Pequeñas variaciones en la tasa de crecimiento producen resultados cualitativamente diferentes. 
+Es por eso que existe una palabra separada para startups, y por qué las startups hacen cosas que las empresas 
+comunes y corrientes no hacen, como recaudar dinero y ser adquiridas. 
+Y, aunque parezca extraño, también es por eso que fracasan con tanta frecuencia.
+
+Teniendo en cuenta lo valiosa que puede llegar a ser una startup exitosa, cualquiera que esté familiarizado 
+con el concepto de valor esperado se sorprendería si la tasa de fracaso no fuera alta. 
+Si una startup exitosa pudiera generarle a su fundador 100 millones de dólares, entonces incluso 
+si las posibilidades de éxito fueran sólo del 1%, el valor esperado de iniciar una sería de 1 millón de dólares. 
+Y la probabilidad de que un grupo de fundadores suficientemente inteligentes y decididos tenga éxito 
+en esa escala podría ser significativamente superior al 1%. 
+Para las personas adecuadas (por ejemplo, el joven Bill Gates), la probabilidad podría ser del 20% o incluso del 50%. 
+Por eso no sorprende que tantos quieran intentarlo. 
+En un mercado eficiente, el número de startups fallidas debería ser proporcional al tamaño de los éxitos. 
+Y como este último es enorme, el primero también debería serlo.
+
+Lo que esto significa es que en un momento dado, la gran mayoría de las nuevas empresas estarán trabajando 
+en algo que nunca llegará a ninguna parte y, sin embargo, glorificarán sus esfuerzos condenados al fracaso 
+con el grandioso título de "startup".
+
+Esto no me molesta. Lo mismo ocurre con otras vocaciones de beta alta, como la de actor o novelista. 
+Hace tiempo que me acostumbré. Pero parece molestar a mucha gente, especialmente a aquellos que han iniciado negocios 
+normales. A muchos les molesta que estas llamadas startups acaparen toda la atención, cuando casi ninguna de ellas 
+llegará a algo.
+
+Si dieran un paso atrás y vieran el panorama completo, tal vez se indignarían menos. 
+El error que están cometiendo es que al basar sus opiniones en evidencia anecdótica, implícitamente están 
+juzgando por la mediana y no por el promedio. 
+Si juzgas por la startup mediana, todo el concepto de startup parece un fraude. 
+Hay que inventar una burbuja para explicar por qué los fundadores quieren iniciarlas o los inversores 
+quieren financiarlas. Pero es un error utilizar la mediana en un dominio con tanta variación. 
+Si observa el resultado promedio en lugar de la mediana, puede comprender por qué les agradan a los 
+inversionistas y por qué, si no son personas promedio, es una opción racional para los fundadores iniciarlas.
+
+
+
+Ofertas
+
+¿Por qué a los inversores les gustan tanto las startups? 
+¿Por qué están tan interesados en invertir en aplicaciones para compartir fotografías, 
+en lugar de en negocios sólidos que generen dinero? No sólo por la razón obvia.
+
+La prueba de cualquier inversión es la relación entre rentabilidad y riesgo. 
+Las empresas emergentes pasan esa prueba porque, aunque son tremendamente riesgosas, los retornos cuando tienen éxito 
+son muy altos. Pero esa no es la única razón por la que a los inversores les gustan las startups. 
+Una empresa ordinaria de crecimiento más lento podría tener una relación rendimiento-riesgo igual de buena, 
+si ambos fueran más bajos. 
+Entonces, ¿por qué los capitalistas de riesgo sólo están interesados en empresas de alto crecimiento? 
+La razón es que se les paga recuperando su capital, idealmente después de las IPO iniciales o, 
+en su defecto, cuando se adquiere.
+
+La otra forma de obtener rendimiento de una inversión es en forma de dividendos. 
+¿Por qué no existe una industria paralela de capital de riesgo que invierta en empresas comunes y corrientes 
+a cambio de un porcentaje de sus ganancias? 
+Porque es demasiado fácil para las personas que controlan una empresa privada canalizar 
+sus ingresos hacia ellos mismos (por ejemplo, comprando componentes sobrevalorados a un proveedor que controlan) 
+mientras hacen que parezca que la empresa está obteniendo pocas ganancias. 
+Cualquiera que invirtiera en empresas privadas a cambio de dividendos tendría que prestar mucha atención a sus libros.
+
+La razón por la que a los capitalistas de riesgo les gusta invertir en nuevas empresas no es simplemente la rentabilidad, 
+sino también porque dichas inversiones son muy fáciles de supervisar. 
+Los fundadores no pueden enriquecerse sin enriquecer también a los inversores. 
+
+¿Por qué los fundadores quieren quedarse con el dinero de los capitalistas de riesgo? Crecimiento, otra vez. 
+La limitación entre buenas ideas y crecimiento opera en ambas direcciones. 
+No se trata simplemente de que necesites una idea escalable para crecer. 
+Si usted tiene esa idea y no crece lo suficientemente rápido, los competidores lo harán. 
+Crecer demasiado lento es particularmente peligroso en un negocio con efectos de red, que las mejores startups 
+suelen tener hasta cierto punto.
+
+Casi todas las empresas necesitan cierta cantidad de financiación para empezar. 
+Pero las nuevas empresas a menudo recaudan dinero incluso cuando son o podrían ser rentables. 
+Puede parecer una tontería vender acciones de una empresa rentable por menos de lo que se cree que valdrán más adelante, 
+pero no es más tonto que comprar un seguro. 
+Básicamente, así es como las startups más exitosas ven la recaudación de fondos. 
+Podrían hacer crecer la empresa con sus propios ingresos, pero el dinero extra y la ayuda proporcionada 
+por los capitalistas de riesgo les permitirán crecer aún más rápido. 
+Recaudar dinero te permite elegir tu tasa de crecimiento.
+
+El dinero para crecer más rápido siempre está al mando de las startups más exitosas, 
+porque los capitalistas de riesgo los necesitan más que a los capitalistas de riesgo. 
+Una startup rentable podría, si quisiera, simplemente crecer con sus propios ingresos. 
+Crecer más lentamente podría ser un poco peligroso, pero es probable que no los mate. 
+Mientras que los capitalistas de riesgo necesitan invertir en nuevas empresas, y en particular en las más exitosas, 
+o se quedarán fuera del negocio. 
+Lo que significa que a cualquier startup suficientemente prometedora se le ofrecerá dinero en condiciones 
+que estaría loca rechazar. 
+Y, sin embargo, debido a la magnitud de los éxitos en el negocio de las startups, los capitalistas de riesgo 
+aún pueden ganar dinero con dichas inversiones. 
+Habría que estar loco para creer que su empresa iba a llegar a ser tan valiosa como puede lograrlo una alta tasa 
+de crecimiento, pero algunas lo hacen.
+
+Prácticamente todas las startups exitosas también recibirán ofertas de adquisición. ¿Por qué? 
+¿Qué tienen las startups que hace que otras empresas quieran comprarlas? 
+
+Fundamentalmente lo mismo que hace que todos los demás quieran las acciones de nuevas empresas exitosas: 
+una empresa en rápido crecimiento es valiosa. 
+Es bueno que eBay haya comprado Paypal, por ejemplo, 
+porque Paypal ahora es responsable del 43% de sus ventas y probablemente una mayor parte de su crecimiento.
+
+Pero los adquirentes tienen una razón adicional para querer nuevas empresas. 
+Una empresa en rápido crecimiento no sólo es valiosa, sino también peligrosa. 
+Si sigue expandiéndose, podría expandirse al propio territorio del adquirente. 
+La mayoría de las adquisiciones de productos tienen algún componente de miedo. 
+Incluso si un adquirente no se siente amenazado por la propia startup, podría alarmarse ante la idea 
+de lo que un competidor podría hacer con ella. Y debido a que, en este sentido, las nuevas empresas 
+son doblemente valiosas para los adquirentes, éstos a menudo pagarán más de lo que pagaría un inversor común.
+
+
+Comprender
+
+La combinación de fundadores, inversores y adquirentes forma un ecosistema natural. 
+Funciona tan bien que aquellos que no lo entienden se ven obligados a inventar teorías de conspiración para explicar 
+cuán bien a veces resultan las cosas. 
+Tal como lo hicieron nuestros antepasados para explicar el funcionamiento aparentemente demasiado claro del mundo natural. 
+Pero no existe ninguna conspiración secreta que haga que todo funcione.
+
+Si se parte de la suposición errónea de que Instagram no valía nada, hay que inventar un jefe secreto 
+para obligar a Mark Zuckerberg a comprarlo. 
+Para cualquiera que conozca a Mark Zuckerberg, esa es la reductio ad absurdum de la suposición inicial. 
+La razón por la que compró Instagram fue que era valioso y peligroso, y lo que lo hizo así fue el crecimiento.
+
+Si quieres entender las startups, entiende el crecimiento. El crecimiento impulsa todo en este mundo. 
+El crecimiento es la razón por la que las startups suelen trabajar en tecnología, porque las ideas para empresas 
+de rápido crecimiento son tan raras que la mejor manera de encontrar otras nuevas es descubrir aquellas 
+que recientemente se han vuelto viables gracias al cambio, y la tecnología es la mejor fuente de cambios rápidos. 
+El crecimiento es la razón por la cual es una opción económicamente racional para tantos fundadores intentar iniciar 
+una startup: el crecimiento hace que las empresas exitosas sean tan valiosas que el valor esperado es alto 
+aunque el riesgo también lo sea. 
+El crecimiento es la razón por la que los capitalistas de riesgo quieren invertir en nuevas empresas: 
+no sólo porque los retornos son altos sino también porque generar retornos a partir de ganancias de capital 
+es más fácil de gestionar que generar retornos a partir de dividendos. 
+El crecimiento explica por qué las startups más exitosas aceptan dinero de capital de riesgo incluso si no lo necesitan: 
+les permite elegir su tasa de crecimiento. 
+Y el crecimiento explica por qué las nuevas empresas exitosas casi invariablemente reciben ofertas de adquisición. 
+Para los adquirentes, una empresa de rápido crecimiento no sólo es valiosa sino también peligrosa.
+
+No se trata sólo de que si quieres tener éxito en algún ámbito, tienes que entender las fuerzas que lo impulsan. 
+Comprender el crecimiento es en lo que consiste iniciar una startup. 
+Lo que realmente estás haciendo (y para consternación de algunos observadores, todo lo que realmente estás haciendo) 
+cuando inicias una startup es comprometerte a resolver un tipo de problema más difícil 
+que el que hacen las empresas comunes. Te comprometes a buscar una de las raras ideas que generan un rápido crecimiento. 
+Debido a que estas ideas son tan valiosas, encontrar una es difícil. 
+La startup es la encarnación de sus descubrimientos hasta el momento. 
+Por lo tanto, iniciar una startup es muy parecido a decidir ser un científico investigador: 
+no te comprometes a resolver ningún problema específico; no sabes con certeza qué problemas tienen solución; 
+pero te comprometes a intentar descubrir algo que nadie sabía antes. 
+El fundador de una startup es, de hecho, un científico investigador económico. 
+La mayoría no descubre nada tan notable, pero algunos descubren la relatividad.
